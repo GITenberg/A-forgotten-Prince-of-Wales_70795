@@ -1,0 +1,30 @@
+_repo: A-forgotten-Prince-of-Wales_70795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curties, Henry
+    birthdate: 1860
+    gutenberg_agent_id: '31443'
+    url: http://www.gutenberg.org/2009/agents/31443
+description: ''
+gutenberg_issued: '2023-05-19'
+identifiers:
+  gutenberg: '70795'
+language: en
+pgterms:marc904: https://archive.org/details/forgottenprinceo00curtuoft
+pgterms:marc905: 20200611224905curties
+pgterms:marc906: '1912'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aUnited Kingdom :$bEverett & Co., Ltd., $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frederick Louis, Prince of Wales, 1707-1751'
+- !lcc 'DA'
+- GITenberg
+title: A forgotten Prince of Wales
+url: http://www.gutenberg.org/ebooks/70795
